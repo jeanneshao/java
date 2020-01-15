@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="logSqlExtracter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/logSqlExtracter_jar</output-path>
+    <root id="archive" name="logSqlExtracter.jar">
+      <element id="module-output" name="logSqlExtracter" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-actors-migration_2.11-1.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-swing_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Program Files (x86)/scala/lib/scala-xml_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/cloud_xdr/lib/Junit/junit-4.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/cloud_xdr/lib/Junit/hamcrest-core-1.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/cloud_xdr/mnt/common_release/CommonInterface.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/cloud_xdr/mnt/common_release/CommonInterface0812.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/jar/log4j-1.2.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

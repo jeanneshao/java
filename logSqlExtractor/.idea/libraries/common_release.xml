@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="common_release">
+    <CLASSES>
+      <root url="file://E:/cloud_xdr/mnt/common_release" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/cloud_xdr/xdr_system/common" />
+      <root url="file://E:/cloud_xdr/xdr_system/common/CommonInterface/src" />
+    </SOURCES>
+    <jarDirectory url="file://E:/cloud_xdr/mnt/common_release" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Junit">
+    <CLASSES>
+      <root url="file://E:/cloud_xdr/lib/Junit" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/cloud_xdr/lib/Junit" recursive="false" />
+  </library>
+</component>
